@@ -1,5 +1,5 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: Zinaa
+// Name: Zinaa 
 // Section: 271
 
 #include <iostream>
